@@ -1,3 +1,7 @@
+## 3.0.0 - unreleased
+
+In progress...
+
 ## 3.0a6 - 2024-07-28
 
 - Optimized `Graph.edge_count` property (@elliotwutingfeng).
