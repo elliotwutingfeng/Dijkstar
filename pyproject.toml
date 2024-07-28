@@ -47,7 +47,7 @@ tox = "*"
 [tool.poetry.scripts]
 dijkstar = "dijkstar.__main__:main.console_script"
 
-[tool.ruff.per-file-ignores]
+[tool.ruff.lint.per-file-ignores]
 "__init__.py" = ["F401"]
 
 [build-system]
